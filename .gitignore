@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -147,3 +148,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+=======
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+>>>>>>> master
